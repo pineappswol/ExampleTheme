@@ -27,7 +27,7 @@
 }
 
 #app-mount .app-2rEoOp, #app-mount .titleBar-AC4pGV {background: rgba(0, 0, 0, 0.6)} /* Brightness adjust */
-#app-mount .typeWindows-1za-n7 {height: 22px;margin-top: 0}
+#app-mount .typeWindows-1za-n7 {padding-top:4px;margin-top: 0}
 #app-mount .wordmark-2iDDfm{display:none}
 #app-mount .backdrop-1wrmKB {background:rgba(0, 0, 0, 0.3) !important}
 body{backface-visibility:hidden}
