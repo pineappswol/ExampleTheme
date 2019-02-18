@@ -1,7 +1,7 @@
 //META{"name":"Example Theme","description":"Very basic theme. Adds transparency with a wallpaper.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
 
 /* Main Wallpaper */
-#app-mount {background:url('https://images3.alphacoders.com/991/991454.jpg')}
+#app-mount {background:url('https://images3.alphacoders.com/991/991454.jpg') center/cover no-repeat}
 
 /* Fonts/Text */
 #app-mount .markup-2BOw-j:not(code) {color: #fff;font-size: 0.9375rem;text-shadow:1px 1px 1px #000}
